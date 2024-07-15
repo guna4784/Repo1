@@ -1,4 +1,4 @@
-public class main{
+class main{
     System.out.println("sHello");
     
 }
